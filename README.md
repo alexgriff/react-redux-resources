@@ -33,4 +33,14 @@ After working through the resources above you will be ready to build a project w
 + Your Rails API must have at least three models - two main resources and a join model.
 + Your Redux application must communicate with your backend through web requests using Action Creators and Reducers.
 + There is no minimum requirement for the number of components, but each one should have a sensible scope. I.E. CatsPage which loads data and passes it to CatsIndex and CatsShow.
-+ Try to think of an application that will be good for React. [Here] are some apps that are good at leveraging - just keep in mind that you'll need to appropriately scope the project
++ Try to think of an application that will be good for React. [Here](https://react.rocks/) are some apps that are good at leveraging - just keep in mind that you'll need to appropriately scope the project
+
+Authentication is not a requirement for this project as it can be very difficult and time-consuming to configure.  If you are up for the challenge begin with these resources.
++ [JWT Authentication](http://www.thegreatcodeadventure.com/jwt-auth-in-rails-from-scratch/)
++ [React and Rails](
+https://labs.chiedo.com/authenticating-your-reactjs-app-with-devise-no-extra-gems-needed/?utm_source=Rails%20Forum&utm_medium=Answering%20Posting&utm_campaign=Rails-forum-answer--posting)
+
+Start by modeling your domain and building out the Backend API, *estimated time: 1 day*     
+Begin implementing Frontend components. Decide what data structure your store state will have.  Begin with dummy data before connecting your frontend to the API, *estimated time: 1-2 days*     
+Connect your frontend to your backend and basic styling to make sure the components appear on the page as desired, *estimated time: 3 days*  
+Now that you have your MVP, iterate and add features.  
