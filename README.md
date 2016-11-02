@@ -6,6 +6,7 @@ So you've reached the end of the React labs. The reward you shall receive is thi
 ### React Review
 + [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) from FB     
 + [create-react-app](https://github.com/facebookincubator/create-react-app) Helpful when starting a new project
++ [JS Ecosystem from Scratch](https://github.com/verekia/js-stack-from-scratch)
 
 ### Redux
 + [A Cartoon Introduction to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.5m2e47a72) Great higher level overview        
